@@ -7,7 +7,7 @@ _Imagine you are Jean Jennings Bartik and you have a nice computer. You want an 
 
 _So your task would be to design the following CLI ( Command-Line Interface) that allows your mates to do the following:_
 
-Introduce the following data:
+**Introduce the following data:**
 * Initial velocity (v0)
 * Launch angle (alpha)
 * Ask if the results want to be saved into a file
@@ -29,5 +29,3 @@ $ npm install (to install pip packages)
 $ femhack (run cli )
 ```
 
-## Simple Usage
-👷‍♀️ Working on it  💪
