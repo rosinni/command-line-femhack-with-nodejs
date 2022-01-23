@@ -1,5 +1,5 @@
 # Command line for femhack with
-** ⚒️ Technologies: Nodejs, chalk, inquirer, figlet ** 
+**⚒️ Technologies: Nodejs, chalk, inquirer, figlet** 
 
 ## Challenge Description
 
