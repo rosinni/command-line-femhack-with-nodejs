@@ -25,7 +25,7 @@ x_max = (v0 * v0) * sin(2*alfa) / g
 To run and start using this project you must run the following command lines:
 
 ```sh
-$ npm install (to install pip packages)
+$ npm install (to install npm packages)
 $ femhack (run cli )
 ```
 
